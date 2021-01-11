@@ -1,4 +1,6 @@
-### Hi there 👋
+# Bonjour! 👋
+
+[Blog](https://github.com/Microunivercity/Microunivercity/edit/master/blog.md) [About](https://github.com/Microunivercity/Microunivercity/edit/master/about.md)
 
 <!--
 **Microunivercity/Microunivercity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
