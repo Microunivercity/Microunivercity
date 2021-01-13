@@ -10,7 +10,7 @@
 
 [![GitHub](https://img.shields.io/github/followers/MRavariya?style=social)](https://www.github.com/MRavariya)
 ![Twitter](https://img.shields.io/twitter/url?label=MGRavariya&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter%2Fmgravariya)
-[![Linkedin](https://img.shields.io/badge/-MRavariya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mravariya/)](https://www.linkedin.com/in/mravariya/)
+[![Linkedin](https://img.shields.io/badge/-MRavariya-lightgray?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mravariya/)](https://www.linkedin.com/in/mravariya/)
 [![Instagram](https://img.shields.io/badge/-MRavariya-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mravariya/)](https://www.instagram.com/mravariya/)
 [![Facebook](https://img.shields.io/badge/-MRavariya-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mravariya)](https://www.facebook.com/mravariya)
 [![Medium](https://img.shields.io/badge/-MRavariya-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@mravariya)](https://medium.com/@mravariya)
