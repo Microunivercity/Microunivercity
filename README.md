@@ -1,6 +1,4 @@
 
-
-
 [![GitHub](https://img.shields.io/github/followers/MRavariya?style=social)](https://www.github.com/MRavariya)
 ![Twitter](https://img.shields.io/twitter/url?label=MGRavariya&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter%2Fmgravariya)
 [![Linkedin](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://in.linkedin.com/in/mahesh-ravariya)
@@ -65,17 +63,12 @@ Other                   ████████████░░░░░░�
 
 <details>
   <summary> FAQ </summary>
-  - 🔭 I’m currently working on ........ <a href="https://github.com/mravariya/portfolio">Portfolio</a><br/>
-  - 🌱 I’m currently learning .......... <a href="">Data Science</a><br/>
-  - 👯 I’m looking to collaborate on ... <a href="">TensorFlow </a><br/>
-  - 🤔 I’m looking for help with ....... <a href="">ml5.js </a><br/>
-  - 💬 Ask me about .................... <a href="">Python, Machine Learning, Artificial Intelligence and Data Science </a><br/>
-  <details>
-  <summary>- 📫 How to reach me: ................ </summary>
-    <p>Email Me</p><a href = "mailto:mravariya01@gmail.com">Click Here</a><br/>
-    <p>Twitter</p><a href = "https://twitter.com/mgravariya">MGRavariya</a><br/>
-    <p>Telegram</p><a href = "https://telegram.org/@mravariya">MRavariya</a><br/>
-    </details>
+- 🔭 I’m currently working on ........ <a href="https://github.com/mravariya/portfolio">Portfolio</a><br/>
+- 🌱 I’m currently learning .......... <a href="">Data Science</a><br/>
+- 👯 I’m looking to collaborate on ... <a href="">TensorFlow </a><br/>
+- 🤔 I’m looking for help with ....... <a href="">ml5.js </a><br/>
+- 💬 Ask me about .................... <a href="">Python, Machine Learning, Artificial Intelligence and Data Science </a><br/>
+- 📫 How to reach me: ................ Email :<a href = "mailto:mravariya01@gmail.com">Click Here</a> | Twitter :<a href = "https://twitter.com/mgravariya">MGRavariya</a> | Telegram :<a href = "https://telegram.org/@mravariya">MRavariya</a><br/>
 - 😄 Pronouns: ... He / Him<br/>
 - ⚡ Fun fact: ... <br/>
 </details>
