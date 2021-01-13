@@ -81,6 +81,21 @@ Other                   ████████████░░░░░░�
 - ⚡ Fun fact: .............................................. I mostly listen to Carnatic Classical music when coding.<br/>
 </details>
 
+<details>
+  <summary> Find me Online </summary>
+  <a href="https://dev.to/mravariya"><img align="auto" src="Icons/dev.svg" alt="Find me on Dev.to" width="20" margin="5"/> MRavariya</a><br/>
+  <a href="https://github.com/mravariya"><img align="auto" src="Icons/github.svg" alt="Find me on GitHub" width="20" margin="5"/> MRavariya</a><br/>
+  <a href="https://facebook.com/mahesh.g.ravariya"><img align="auto" src="Icons/facebook.svg" alt="Find me on Facebook" width="20" margin="5"/> Mahesh.G.Ravariya</a><br/>
+  <a href="mailto:mravariya01@gmail.com"><img align="auto" src="Icons/gmail.svg" alt="Email Me" width="20" margin="5"/> MRavariya@gmail.com</a><br/>
+  <a href="https://instagram.com/mravariya"><img align="auto" src="Icons/instagram.svg" alt="Find me on Instagram" width="20" margin="5"/> MRavariya</a><br/>
+  <a href="https://in.linkedin.com/in/mahesh-ravariya"><img align="auto" src="Icons/linkedin.svg" alt="Find me on LinkedIn" width="20" margin="5"/> Mahesh-ravariya</a><br/>
+  <a href="https://medium.com/mravariya"><img align="auto" src="Icons/medium.svg" alt="Find me on Medium.com" width="20" margin="5"/> MRavariya</a><br/>
+  <a href="https://telegram.com/mravariya"><img align="auto" src="Icons/telegram.svg" alt="Find me on Telegram" width="20" margin="5"/> MRavariya</a><br/>
+<a href="https://twitter.com/mravariya"><img align="auto" src="Icons/twitter.svg" alt="Find me on Twitter" width="20" margin="5"/> MRavariya</a><br/>
+<a href="https://mahesh.works"><img align="auto" src="Icons/safari.svg" alt="Portfolio" width="20" margin="5"/> Mahesh.Works</a><br/>
+</details>
+
+
 <a href="https://github.com/mravariya/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mravariya&count_private=true&show_icons=true&title_color=1D3557&text_color=1D3557&icon_color=E63946&bg_color=F1FAEE&hide_border=true&include_all_commits=true" />
 </a>
