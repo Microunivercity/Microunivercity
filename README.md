@@ -1,4 +1,4 @@
-
+# Mahesh Ravariya
 
 
 [![GitHub](https://img.shields.io/github/followers/MRavariya?style=social)](https://www.github.com/MRavariya)
@@ -13,18 +13,19 @@
 <details>
 <summary> BIO </summary>
 <b>Name</b>        : <a href="https://www.github.com/mravariya">Mahesh Ravariya</a> <br/>
-<b>Designation</b> : MERN Stck Developer
+<b>Designation</b> : MERN Stack Developer
 <b>Pronoun</b>     : He / Him <br/>
 <b>Location</b>    : Mumbai MH India <br/>
 <b>Time Zone</b>   : Asia/Kolkata <br/>
-<b>Intrested<b>    : AI/ML Enthusiast
+<b>Intrested<b>    : Artificial Intelligence, Machine Learning and Data Science Enthusiast
 </details>
 
-### HELLO WORLD
-I have been learning and teaching ```Computer Science``` from last 2+ years.  ```Python``` expert; ```Machine Learning,``` ```Artificial Intelligence``` and ```Data Science``` enthusiast. Specialised in backend development. Curious and eager to explore new technologies.  
+## HELLO WORLD
+Hello, I am [Mahesh Ravariya](https://www.github.com/mravariya). I have been learning and teaching ```Computer Science``` from last 2+ years.  ```Python``` expert; ```Machine Learning,``` ```Artificial Intelligence``` and ```Data Science``` enthusiast. Specialised in backend development. Curious and eager to explore new technologies. For a sack of perfomance & productivtity I shell leave no stone unturned when it comes to smartwork & being responisble
 
-### MISSION:
-To create and work with an Open Source community to develop and delivery solutions to change the human
+### VISION:
+With the support of an Open Source community, to develop and delivery digital solutions for ease of living and security.
+
 
 ### SKILLS
 ```text
@@ -72,6 +73,8 @@ Other                   ████████████░░░░░░�
 - 🤔 I’m looking for help with ............... <a href="">ml5.js </a><br/>
 - 💬 Ask me about ..................................... <a href="">Python, Machine Learning, Artificial Intelligence and Data Science </a><br/>
 - 📫 How to reach me: ............................. Email :<a href = "mailto:mravariya01@gmail.com">Click Here</a> | Twitter :<a href = "https://twitter.com/mgravariya">MGRavariya</a> | Telegram :<a href = "https://telegram.org/@mravariya">MRavariya</a><br/>
-- 😄 Pronouns: ............................................. He / Him<br/>
-- ⚡ Fun fact: ................................................ <br/>
+- 😄 Pronouns: ............................................. He / Him ♂️ <br/>
+- ⚡ Fun fact: ................................................ I mostly listen to Carnatic Classical music when coding.
+
+ <br/>
 </details>
