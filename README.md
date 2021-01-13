@@ -19,10 +19,10 @@
 
 <details>
 <summary> BIO </summary>
-<e>Name</e>      : <a href="https://www.github.com/mravariya" Mahesh Ravariya> <br/>
-<e>Location</e>  : Mumbai MH India <br/>
-<e>Time Zone</e> : Asia/Kolkata <br/>
-<e>Pronoun</e>   : He / Him <br/>
+  <e>Name</e>      : <a href="https://www.github.com/mravariya">Mahesh Ravariya</a> <br/>
+<e>Location</e>    : Mumbai MH India <br/>
+<e>Time Zone</e>   : Asia/Kolkata <br/>
+<e>Pronoun</e>     : He / Him <br/>
 </details>
 
 ### HELLO WORLD
