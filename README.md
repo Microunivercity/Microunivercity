@@ -1,11 +1,4 @@
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 
 [![GitHub](https://img.shields.io/github/followers/MRavariya?style=social)](https://www.github.com/MRavariya)
@@ -14,15 +7,17 @@
 [![Instagram](https://img.shields.io/badge/-MRavariya-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/mravariya/)](https://www.instagram.com/mravariya/)
 [![Facebook](https://img.shields.io/badge/-MRavariya-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mravariya)](https://www.facebook.com/mahesh.g.ravariya)
 [![Medium](https://img.shields.io/badge/-MRavariya-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@mravariya)](https://medium.com/@mravariya)
-[![Telegram](https://img.shields.io/badge/-MRavariya-informational?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@mravariya)](https://telegram.org/@sriharikapu)
+[![Telegram](https://img.shields.io/badge/-MRavariya-informational?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@mravariya)](https://telegram.org/@mravariya)
 [![Website](https://img.shields.io/badge/-Portfolio-important?style=flat-square&logo=Safari&logoColor=white&link=http://mahesh.work)](http://www.mahesh.work/)
 
 <details>
 <summary> BIO </summary>
-  <e>Name</e>      : <a href="https://www.github.com/mravariya">Mahesh Ravariya</a> <br/>
-<e>Location</e>    : Mumbai MH India <br/>
-<e>Time Zone</e>   : Asia/Kolkata <br/>
-<e>Pronoun</e>     : He / Him <br/>
+<b>Name</b>        : <a href="https://www.github.com/mravariya">Mahesh Ravariya</a> <br/>
+<b>Designation</b> : MERN Stck Developer
+<b>Pronoun</b>     : He / Him <br/>
+<b>Location</b>    : Mumbai MH India <br/>
+<b>Time Zone</b>   : Asia/Kolkata <br/>
+<b>Intrested<b>    : AI/ML Enthusiast
 </details>
 
 ### HELLO WORLD
@@ -68,3 +63,19 @@ Other                   ████████████░░░░░░�
 
 ```
 
+<details>
+  <summary> FAQ </summary>
+  - 🔭 I’m currently working on ........ <a href="https://github.com/mravariya/portfolio">Portfolio</a><br/>
+  - 🌱 I’m currently learning .......... <a href="">Data Science</a><br/>
+  - 👯 I’m looking to collaborate on ... <a href="">TensorFlow </a><br/>
+  - 🤔 I’m looking for help with ....... <a href="">ml5.js </a><br/>
+  - 💬 Ask me about .................... <a href="">Python, Machine Learning, Artificial Intelligence and Data Science </a><br/>
+  <details>
+  <summary>- 📫 How to reach me: ................ </summary>
+    <p>Email Me</p><a href = "mailto:mravariya01@gmail.com">Click Here</a><br/>
+    <p>Twitter</p><a href = "https://twitter.com/mgravariya">MGRavariya</a><br/>
+    <p>Telegram</p><a href = "https://telegram.org/@mravariya">MRavariya</a><br/>
+    </details>
+- 😄 Pronouns: ... He / Him<br/>
+- ⚡ Fun fact: ... <br/>
+</details>
