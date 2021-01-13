@@ -3,7 +3,7 @@
 </a>
 <a href"https://github.com/mravariya/devDocs">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mravariya&langs_count=8">
-</a>
+</a><br />
 <a href="https://github.com/mravariya/devDocs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mravariya&repo=devDocs" />
 </a>
