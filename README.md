@@ -17,11 +17,11 @@
 <b>Pronoun</b>     : He / Him <br/>
 <b>Location</b>    : Mumbai MH India <br/>
 <b>Time Zone</b>   : Asia/Kolkata <br/>
-<b>Intrested<b>    : Artificial Intelligence, Machine Learning and Data Science Enthusiast
+<b>Interest<b>    : Artificial Intelligence, Machine Learning and Data Science Enthusiast
 </details>
 
 ## HELLO WORLD
-Hello, I am [Mahesh Ravariya](https://www.github.com/mravariya). I have been learning and teaching ```Computer Science``` from last 2+ years.  ```Python``` expert; ```Machine Learning,``` ```Artificial Intelligence``` and ```Data Science``` enthusiast. Specialised in backend development. Curious and eager to explore new technologies. For a sack of perfomance & productivtity I shell leave no stone unturned when it comes to smartwork & being responisble
+Hello, I am [Mahesh Ravariya](https://www.github.com/mravariya). I have been learning and teaching ```Computer Science``` from last 2+ years.  ```Python``` expert; ```Machine Learning,``` ```Artificial Intelligence``` and ```Data Science``` enthusiast. Specialized in backend development. Curious and eager to explore new technologies. For a sack of performance & productivity I shell leave no stone unturned when it comes to smart work & being responsible.
 
 ### VISION:
 With the support of an Open Source community, to develop and delivery digital solutions for ease of living and security.
