@@ -1,5 +1,4 @@
-# Mahesh Ravariya
-
+# Hello, I'm [Mahesh Ravariya](https://www.github.com/mravariya) 👋
 
 [![GitHub](https://img.shields.io/github/followers/MRavariya?style=social)](https://www.github.com/MRavariya)
 ![Twitter](https://img.shields.io/twitter/url?label=MGRavariya&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter%2Fmgravariya)
@@ -21,7 +20,7 @@
 </details>
 
 ## HELLO WORLD
-Hello, I am [Mahesh Ravariya](https://www.github.com/mravariya). I have been learning and teaching ```Computer Science``` from last 2+ years.  ```Python``` expert; ```Machine Learning,``` ```Artificial Intelligence``` and ```Data Science``` enthusiast. Specialized in backend development. Curious and eager to explore new technologies. For a sack of performance & productivity I shell leave no stone unturned when it comes to smart work & being responsible.
+I have been learning and teaching ```Computer Science``` from last 2+ years.  I am ```Python``` expert; ```Machine Learning,``` ```Artificial Intelligence``` and ```Data Science``` enthusiast. Specialized in backend development. Curious and eager to explore new technologies. For a sack of performance & productivity I shell leave no stone unturned when it comes to smart work & being responsible.
 
 ### VISION:
 With the support of an Open Source community, to develop and delivery digital solutions for ease of living and security.
