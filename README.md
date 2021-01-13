@@ -1,6 +1,4 @@
-# Hello, I'm [Mahesh Ravariya](https://www.github.com/mravariya) 👋
-
-I am MERN Stack developer who is currently learning Data Science and helping others to learn MERN stack.
+<img src="/resource/header.png" alt="Mahesh Ravariya's Cover Photo" width="1200"/>
 
 [![GitHub](https://img.shields.io/github/followers/MRavariya?style=social)](https://www.github.com/MRavariya)
 ![Twitter](https://img.shields.io/twitter/url?label=MGRavariya&logo=Twitter&style=social&url=https%3A%2F%2Ftwitter%2Fmgravariya)
@@ -11,6 +9,15 @@ I am MERN Stack developer who is currently learning Data Science and helping oth
 [![Telegram](https://img.shields.io/badge/-MRavariya-informational?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.org/@mravariya)](https://telegram.org/@mravariya)
 [![Website](https://img.shields.io/badge/-Portfolio-important?style=flat-square&logo=Safari&logoColor=white&link=http://mahesh.work)](http://www.mahesh.work/)
 
+
+## HELLO WORLD 👋
+
+I'm [Mahesh Ravariya](https://www.github.com/mravariya) & I am MERN Stack developer who is currently learning Data Science and helping others to learn MERN stack.
+I have been learning and teaching ```Computer Science``` from last 2+ years.  I am ```Python``` expert; ```Machine Learning,``` ```Artificial Intelligence``` and ```Data Science``` enthusiast. Specialized in backend development. Curious and eager to explore new technologies. For a sack of performance & productivity I shell leave no stone unturned when it comes to smart work & being responsible.
+
+### VISION:
+With the support of an Open Source community, to develop and delivery digital solutions for ease of living and security.
+
 <details>
 <summary> BIO </summary>
 <b>Name</b>        : <a href="https://www.github.com/mravariya">Mahesh Ravariya</a> <br/>
@@ -20,13 +27,6 @@ I am MERN Stack developer who is currently learning Data Science and helping oth
 <b>Time Zone</b>   : Asia/Kolkata <br/>
 <b>Interest<b>    : Artificial Intelligence, Machine Learning and Data Science Enthusiast
 </details>
-
-## HELLO WORLD
-I have been learning and teaching ```Computer Science``` from last 2+ years.  I am ```Python``` expert; ```Machine Learning,``` ```Artificial Intelligence``` and ```Data Science``` enthusiast. Specialized in backend development. Curious and eager to explore new technologies. For a sack of performance & productivity I shell leave no stone unturned when it comes to smart work & being responsible.
-
-### VISION:
-With the support of an Open Source community, to develop and delivery digital solutions for ease of living and security.
-
 
 ### SKILLS
 ```text
