@@ -1,7 +1,7 @@
 <img src="/resource/header.png" alt="Mahesh Ravariya's Cover Photo" width="1200"/>
 
 [![GitHub](https://img.shields.io/github/followers/MRavariya?style=social)](https://www.github.com/MRavariya)
-![Twitter](https://img.shields.io/twitter/url?label=MGRavariya&logo=Twitter&style=social&url=https://twitter.com/mgravariya)(https://twitter.com/mgravariya)
+[![Twitter](https://img.shields.io/twitter/url?label=MGRavariya&logo=Twitter&style=social&url=https://twitter.com/mgravariya)](https://twitter.com/mgravariya)
 [![Linkedin](https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin)](https://in.linkedin.com/in/mahesh-ravariya)
 [![Instagram](https://img.shields.io/badge/-MRavariya-white?style=flat-square&logo=Instagram&logoColor=purple&link=https://www.instagram.com/mravariya/)](https://www.instagram.com/mravariya/)
 [![Facebook](https://img.shields.io/badge/-MRavariya-white?style=flat-square&logo=Facebook&logoColor=blue&link=https://www.facebook.com/mravariya)](https://www.facebook.com/mahesh.g.ravariya)
